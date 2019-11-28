@@ -22,5 +22,5 @@ Double Sided Bottom View:
 Schematic:
 
 <p align="center">
-  <img width="632" height="387" src="https://raw.githubusercontent.com/KyleCathers/DualBuckPCB/master/Schematic.png">
+  <img width="866" height="528" src="https://raw.githubusercontent.com/KyleCathers/DualBuckPCB/master/Schematic.png">
 </p>
