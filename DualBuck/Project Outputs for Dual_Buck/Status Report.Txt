@@ -1,0 +1,16 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 10:48:43 PM On 11/27/2019
+
+Output: NC Drill Files_Double
+Type  : NC Drill
+From  : PCB Document [DualBuck(Double).PcbDoc]
+   Generated File[[No Variations].TXT]
+   Generated File[[No Variations].LDP]
+   Generated File[[No Variations].DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:48:43 PM On 11/27/2019

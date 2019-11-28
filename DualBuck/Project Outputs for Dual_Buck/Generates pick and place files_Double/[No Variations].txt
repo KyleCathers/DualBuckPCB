@@ -1,0 +1,54 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\Projects\Dual_Buck\Project Outputs for Dual_Buck\Generates pick and place files_Double\[No Variations].txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       27/11/19
+Time:       22:24
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment              Layer       Footprint             Center-X(mil) Center-Y(mil) Rotation Description                              
+C3         ""                   TopLayer    C0805                 1635.000      1815.000      180      Capacitor                                
+U1         ISL6236AIRZ          BottomLayer QFN50P500X500X100-33N 1485.000      1760.000      180      "Integrated Circuit"                     
+R14        Res3                 BottomLayer R0805                 1929.000      1902.000      90       Resistor                                 
+R16        Res3                 BottomLayer R0805                 1349.643      2012.000      180      Resistor                                 
+R15        Res3                 BottomLayer R0805                 1843.000      1902.000      270      Resistor                                 
+R13        Res3                 BottomLayer R0805                 1973.000      1765.000      90       Resistor                                 
+R12        Res3                 BottomLayer R0805                 1886.000      1765.000      90       Resistor                                 
+R11        ""                   BottomLayer R0805                 1313.000      1518.000      180      Resistor                                 
+R10        Res3                 TopLayer    R0805                 1505.000      2488.000      0        Resistor                                 
+R9         Res3                 TopLayer    R0805                 1475.000      926.000       0        Resistor                                 
+R8         Res3                 BottomLayer R0805                 1582.401      1928.000      180      Resistor                                 
+R7         Res3                 TopLayer    R0805                 1504.000      1518.000      270      Resistor                                 
+R6         Res3                 BottomLayer R0805                 1313.000      1430.000      180      Resistor                                 
+R5         Res3                 BottomLayer R0805                 1449.000      1389.000      180      Resistor                                 
+R4         Res3                 BottomLayer R0805                 1449.000      1476.000      360      Resistor                                 
+R3         Res3                 BottomLayer R0805                 1739.000      1559.000      180      Resistor                                 
+R2         Res3                 BottomLayer R0805                 1628.799      1536.000      90       Resistor                                 
+R1         Res3                 TopLayer    R0805                 1471.000      1700.000      360      Resistor                                 
+Q2         SI4816BDY-T1-GE3     TopLayer    SOT127P600X175-8N     1621.000      1966.000      360      "Integrated Circuit"                     
+Q1         SI4816BDY-T1-GE3     TopLayer    SOT127P600X175-8N     1618.701      1305.000      360      "Integrated Circuit"                     
+LED2       150141GS73100        TopLayer    3528                  1710.000      2488.000      180      "SMD mono-color Top LED, WL-SMTW, Green" 
+LED1       150141GS73100        TopLayer    3528                  1663.898      926.000       180      "SMD mono-color Top LED, WL-SMTW, Green" 
+L2         "2.2uH, DR125-2R2-R" TopLayer    INDPM125125X600N      2105.000      2021.000      0        Inductor                                 
+L1         "3.3uH, DR125-3R3-R" TopLayer    INDPM125125X600N      2115.000      1227.953      180      Inductor                                 
+J6         23.3200-22           TopLayer    23320022              3145.000      1820.000      180      Connector                                
+J5         23.3200-21           TopLayer    23320021              3145.000      2540.000      360      Connector                                
+J4         23.3200-22           TopLayer    23320022              3145.000      1175.000      180      Connector                                
+J3         23.3200-21           TopLayer    23320021              3145.000      495.000       360      Connector                                
+J2         23.3200-22           TopLayer    23320022              505.000       1110.000      360      Connector                                
+J1         23.3200-21           TopLayer    23320021              505.000       1875.000      180      Connector                                
+C12        ""                   BottomLayer C0805                 1730.000      1852.000      180      Capacitor                                
+C11        ""                   BottomLayer C0805                 1732.527      1741.000      180      Capacitor                                
+C10        "330uF, 10V"         TopLayer    CAPPM7343X430N        2570.000      1830.000      270      "Capacitor Polarised"                    
+C9         ""                   BottomLayer C0805                 1314.000      1906.472      270      Capacitor                                
+C8         ""                   BottomLayer C0805                 1314.000      1624.000      270      Capacitor                                
+C7         "330uF, 10V"         TopLayer    CAPPM7343X430N        2580.000      1350.000      90       "Capacitor Polarised"                    
+C6         ""                   TopLayer    C1210                 1671.850      1485.000      0        Capacitor                                
+C5         ""                   TopLayer    C0805                 1603.000      1687.472      90       Capacitor                                
+C4         ""                   BottomLayer C0805                 1224.000      1760.000      270      Capacitor                                
+C2         ""                   BottomLayer C1206                 1744.000      1647.000      180      Capacitor                                
+C1         ""                   TopLayer    C1210                 1651.850      2161.000      0        Capacitor                                
